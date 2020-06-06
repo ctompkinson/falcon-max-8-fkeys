@@ -1,6 +1,10 @@
 # Falcon Max 8 F13-F20 Firmware
 ![Falcon Max 8](/max8.png)
-![Falcon Max 8](https://www.maxkeyboard.com/max-falcon-8-custom-programmable-mini-macropad-mechanical-keyboard-assembled.html)
+
+
+[Falcon Max 8](https://www.maxkeyboard.com/max-falcon-8-custom-programmable-mini-macropad-mechanical-keyboard-assembled.html)
+
+
 A preconfigured firmware for the Falcon Max 8 to configure it to use F13-F20 keys
 
 The current firmware configuration tool doesn't let you use keys not on the keyboard.
