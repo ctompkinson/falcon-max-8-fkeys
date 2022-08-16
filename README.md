@@ -13,3 +13,5 @@ This firmware has been manually updated to include the keys F13-F20 so that ever
 on the macro pad can be one not used by your keyboard.
 
 To install the firmware move the jumper and copy the firmware to the mounted drive.
+
+Extra Text
